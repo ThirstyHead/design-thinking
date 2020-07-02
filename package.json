@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThirstyHead/design-thinking/issues"
   },
-  "homepage": "https://github.com/ThirstyHead/design-thinking#readme"
+  "homepage": "https://github.com/ThirstyHead/design-thinking#readme",
+  "dependencies": {
+    "talk-o-vision": "github:thirstyhead/talk-o-vision"
+  }
 }
